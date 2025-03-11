@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Shefin</h1>
-<h3 align="center">Highly motivated and detail-oriented Python Full Stack Developer seeking new challenges and opportunities to leverage my skills in software development. Eager to contribute to a dynamic team and deliver innovative solutions in a fast-paced environment.</h3>
+<h3 align="center">Highly motivated and detail-oriented Python Full Stack Developer seeking new challenges and opportunities to leverage my skills in web development. Eager to contribute to a dynamic team and deliver innovative solutions in a fast-paced environment.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
